@@ -37,7 +37,7 @@
   </div>
 </nav>
 </div>
-  <h1 class="display-4">WEBCRAFT</h1>
+  <h1 class="display-4">second day of WEBCRAFT workshop</h1>
   <p class="lead">THIS IS OUR LAB IN ADITYA ENGINEERING COLLEGE</p>
   <hr class="my-4">
   <p>ANY WHERE ANY SIDE,EVERY WHERE EVERY SIDE.</p>
